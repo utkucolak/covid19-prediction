@@ -1,4 +1,4 @@
-### COVUD-19 Confirmed Case Predictions for Turkey
+### COVID-19 Confirmed Case Predictions for Turkey
 
 This model was designed to predict the number of confirmed COVID-19 cases in Turkey. Acceptable loss rate was 4*10^-4 which can be edited by changing the line:
 ```
